@@ -1,16 +1,7 @@
-<!DOCTYPE html>
-<html>
 
-<head>
-
-</head>
-
-<body>
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Sulphur+Point&display=swap" rel="stylesheet">
-
-
     <div style="position: relative;">
         <div style="position: absolute; top: 40%; left: 100px;">
             <h1 style="font-family: 'Sulphur Point', sans-serif;" align="left">Hi 👋, I'm VIVEK K</h1>
@@ -19,8 +10,6 @@
 
         <img style="width: 100%;"  src="https://hack.codingblocks.com/_nuxt/img/maingif.1646021.gif">
     </div>
-
-
     <p>My journey in web development has been both exciting and challenging. I love building and deploying web
         applications that make a difference. With a strong foundation in Python Django and frontend technologies, I'm
         always ready to take on new and exciting projects.</p>
@@ -47,6 +36,3 @@
 
     <p>Thank you for visiting my GitHub profile, and I'm looking forward to connecting with you and exploring the world
         of web development together!</p>
-</body>
-
-</html>
