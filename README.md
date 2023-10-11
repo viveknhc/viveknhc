@@ -4,15 +4,9 @@
 
 </head>
 <body>
-  <h1>Welcome to My GitHub Profile!</h1>
-
-  <h2>About Me</h2>
-  <ul>
-    <li>💻 Full-Stack Developer</li>
-    <li>🌐 Frontend Enthusiast</li>
-    <li>🐍 Python Django Developer</li>
-    <li>🖥️ Ubuntu Apache Server Administrator</li>
-  </ul>
+<h1 align="center">Hi 👋, I'm VIVEK K</h1>
+<h3 align="center">🌐 Web Developer | 💻 Full-Stack Enthusiast | 🚀 Open Source Advocate</h3>
+<img src="https://hack.codingblocks.com/_nuxt/img/maingif.1646021.gif">
 
   <p>My journey in web development has been both exciting and challenging. I love building and deploying web applications that make a difference. With a strong foundation in Python Django and frontend technologies, I'm always ready to take on new and exciting projects.</p>
 
