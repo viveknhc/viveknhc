@@ -25,24 +25,10 @@
 
   <p>I'm passionate about creating web applications that are not only visually appealing but also functionally robust. From designing elegant user interfaces to building secure and scalable backend systems, I'm dedicated to delivering the best for my projects.</p>
 
-  <h2>Projects</h2>
-  <p>Here are a few projects I've worked on or contributed to:</p>
-  <ol>
-    <li><a href="link-to-project">Project 1</a>: Describe the project and your role in it.<br>
-      <em>Technologies used:</em> List the technologies and tools used.
-    </li>
-    <li><a href="link-to-project">Project 2</a>: Another exciting project you've been a part of.<br>
-      <em>Technologies used:</em> List the technologies and tools used.
-    </li>
-  </ol>
-
-  <p>Feel free to explore these projects to get a taste of my work.</p>
-
   <h2>Contact</h2>
   <ul>
     <li>Email: <a href="mailto:youremail@example.com">viveknhc@gmail.com</a></li>
     <li>LinkedIn: <a href="https://www.linkedin.com/in/yourprofile">viveknhc</a></li>
-    <li>Phone: <a href="tel:918547768153">Call Me</a></li>
   </ul>
 
   <p>I'm always open to collaboration and connecting with fellow developers. Let's build something amazing together!</p>
