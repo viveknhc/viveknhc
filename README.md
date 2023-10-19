@@ -29,9 +29,8 @@
 
   <h2>Contact</h2>
   <ul>
-    <li>Email: <a href="mailto:youremail@example.com">Your Email Address</a></li>
-    <li>LinkedIn: <a href="https://www.linkedin.com/in/yourprofile">Your LinkedIn Profile</a></li>
-    <li>Twitter: <a href="https://twitter.com/yourhandle">@YourTwitterHandle</a></li>
+    <li>Email: <a href="mailto:viveknhc@gmail.com">viveknhc@gmail.com</a></li>
+    <li>LinkedIn: <a href="https://www.linkedin.com/in/viveknhc">viveknhc</a></li>
   </ul>
 
   <p>I'm always open to collaboration and connecting with fellow developers. Let's build something amazing together!</p>
